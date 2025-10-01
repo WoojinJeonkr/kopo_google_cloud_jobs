@@ -1,4 +1,4 @@
-# Cloud Run Jobs 학생 실습 (Prime Counter)
+# Cloud Run Jobs 실습 (Prime Counter)
 
 이 실습은 **Cloud Run Jobs**로 간단한 배치 작업을 만들어 보고,
 **여러 태스크 분할(sharding)** 과 **스케줄링(Cloud Scheduler)** 까지 경험합니다.
